@@ -2,6 +2,11 @@
 
 A storage system for backups.
 
+# Contents
+
+- EmbeddedBackupDB - Backup storage embedded directly in the backup application.
+  The backup application.
+
 # Project Status
 
 This project is intended for use by its author only.

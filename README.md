@@ -4,8 +4,7 @@ A storage system for backups.
 
 # Contents
 
-- EmbeddedBackupDB - Backup storage embedded directly in the backup application.
-  The backup application.
+- EmbeddedBackupDB - Local backup storage embedded directly in the backup application.
 
 # Project Status
 

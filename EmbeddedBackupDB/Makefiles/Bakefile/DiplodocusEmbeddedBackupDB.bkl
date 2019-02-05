@@ -29,6 +29,12 @@ library DiplodocusEmbeddedBackupDB
 
     headers
     {
+        ../../../Include/DiplodocusDB/BackupDB/EmbeddedBackupDB/EmbeddedBackupDB.h
         ../../../Include/DiplodocusDB/BackupDB/EmbeddedBackupDB/linkoptions.h
+    }
+
+    sources
+    {
+        ../../Source/EmbeddedBackupDB.cpp
     }
 }
